@@ -20,8 +20,8 @@ O projeto segue os passos definidos na atividade acadêmica:
 ### 2. Instalação
 
 Clone o repositório e instale a dependência:
-
+https://github.com/LandriAlencars/projeto-grafos-navegacao.git
 ```bash
-git clone [https://github.com/seu-usuario/projeto-grafos-navegacao.git](https://github.com/seu-usuario/projeto-grafos-navegacao.git)
+git clone (https://github.com/LandriAlencars/projeto-grafos-navegacao.git))
 cd projeto-grafos-navegacao
 pip install matplotlib
