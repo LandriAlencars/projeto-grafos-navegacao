@@ -14,7 +14,7 @@ O projeto segue os passos definidos na atividade acadêmica:
 
 ### 1. Pré-requisitos
 
--   Python 3.x
+-   Python 3.14.0
 -   `matplotlib`
 
 ### 2. Instalação
